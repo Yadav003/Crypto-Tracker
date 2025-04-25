@@ -31,4 +31,4 @@ cd crypto-tracker
 npm install
 npm run dev
 
-## The Demo Video link is  
+## The Demo Video link is  https://www.loom.com/share/f8bc13d7937c4ef1956790fc666360ee?sid=71604065-e4be-4eb5-a6e3-c6b7746721de 
