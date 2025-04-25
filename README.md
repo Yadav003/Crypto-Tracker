@@ -8,7 +8,6 @@ A responsive React + Redux Toolkit application that simulates real-time cryptocu
 - Simulates live price updates using `setInterval`
 - All state is managed using Redux Toolkit
 - Color-coded percentage changes (green for positive, red for negative)
-- Static 7-day chart (SVG or image placeholder)
 - Mobile/tablet responsive with horizontal scroll
 
 ## 🛠️ Tech Stack
